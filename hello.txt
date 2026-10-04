@@ -1,2 +1,4 @@
 Hello GitHub!
 This is Experiment 3.
+
+Git and GitHub are useful for version control.
